@@ -1,0 +1,19 @@
+var month='Fv';
+
+switch(month){
+    case "Jan":
+    console.log('Month selected as Jan');
+    break;
+    
+    case "Fv":
+    console.log('Month selected as Feb');
+    break; 
+
+    case "Mars":
+    console.log('Month selected as Jan');
+    break; 
+    
+    case "April":
+    console.log('Month selected as A');
+    break; 
+}
